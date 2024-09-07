@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomTextView">
+        <!-- Atribut kustom untuk mengubah warna teks -->
+        <attr name="customTextColor" format="color" />
+        <!-- Atribut kustom untuk mengubah ukuran teks -->
+        <attr name="customTextSize" format="dimension" />
+    </declare-styleable>
+</resources>
